@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>HabeshaFashion</finalName>
+    <finalName>HabeshaFashiong</finalName>
   </build>
 </project>
